@@ -1,8 +1,9 @@
-# GSoC-2020
-Project Details and Work done during the GSoC 2020 programme
-## About the project
+# Google Summer of Code
+*Project Details and Work done during the GSoC 2020 programme*
 
-**Eclipse SWTChart Project - Extending The Export Options**
+## About The Project
+
+**Eclipse SWTChart - Extending The Export Options**
 
 See Eclipse SWTChart on [Eclipse](https://projects.eclipse.org/projects/science.swtchart), [Github](https://github.com/eclipse/swtchart)  
 See this project on [Google Summer of code](https://summerofcode.withgoogle.com/projects/#5104569337511936)  
