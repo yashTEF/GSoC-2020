@@ -66,7 +66,9 @@ Following were the PRs related to issues and bug fixing and further optimization
 
 Here are some final sample exports showcasing the template export at work-
 <img src="./Untitled1.svg" height="1024" width="1024">
+
 <img src="./Untitled2.svg" height="1024" width="1024">
+
 <img src="./Untitled4.svg" height="1024" width="1024">
 
 Future work and improvements may include the following-
@@ -112,7 +114,7 @@ Here are the screenshots for the improvements
 
 <img src="./Screenshot from 2020-08-21 13-27-30.png" height="860" width="860">
 
-<img src="./Screenshot from 2020-07-21 15-21-21.png" height="860" width="860">
+<img src="./Screenshot from 2020-08-21 13-52-14.png" height="860" width="860">
 
 <img src="./Screenshot from 2020-07-21 15-21-21.png" height="860" width="860">
 
