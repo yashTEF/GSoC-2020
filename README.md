@@ -27,42 +27,42 @@ Option which has no dependancy to any external library and is much more efficien
 
 An Inkscape Template along with the exporting option was added for each of the following types of chart-
 
-1) LineSeries Chart
+1. LineSeries Chart
 
-2) BarSeries Chart
+2. BarSeries Chart
 
-3) ScatterSeries Chart
+3. ScatterSeries Chart
 
 PRs for addtion of LineChart to the Template Export-
 
-1) https://github.com/eclipse/swtchart/pull/171
+1. https://github.com/eclipse/swtchart/pull/171
 
-2) https://github.com/eclipse/swtchart/pull/173
+2. https://github.com/eclipse/swtchart/pull/173
 
 PRs for addition of BarChart to the Template Export-
 
-1) https://github.com/eclipse/swtchart/pull/176
+1. https://github.com/eclipse/swtchart/pull/176
 
 PRs for addition of ScatterChart to the Template Export-
 
-1) https://github.com/eclipse/swtchart/pull/184
+1. https://github.com/eclipse/swtchart/pull/184
 
 The above changes added the SVG Template Export option to SWTChart,
 However, there were further changes needed for optimized and efficient working of the export option
 
 Following were the PRs related to issues and bug fixing and further optimization-
 
-1) https://github.com/eclipse/swtchart/pull/193
+1. https://github.com/eclipse/swtchart/pull/193
 
-2) https://github.com/eclipse/swtchart/pull/195
+2. https://github.com/eclipse/swtchart/pull/195
 
-3) https://github.com/eclipse/swtchart/pull/197
+3. https://github.com/eclipse/swtchart/pull/197
 
-4) https://github.com/eclipse/swtchart/pull/199
+4. https://github.com/eclipse/swtchart/pull/199
 
 Here are some final sample exports showcasing the template export at work-
-<img src="./Untitled1.svg" height="1024" width="1024">
-<img src="./Untitled2.svg" height="1024" width="1024">
-<img src="./Untitled4.svg" height="1024" width="1024">
+Scatter Plot- <img src="./Untitled1.svg" height="1024" width="1024">
+Line Plot-  <img src="./Untitled2.svg" height="1024" width="1024">
+Bar Plot- <img src="./Untitled4.svg" height="1024" width="1024">
 
 
