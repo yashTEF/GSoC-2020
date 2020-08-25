@@ -37,32 +37,32 @@ An Inkscape Template along with the exporting option was added for each of the f
 
 PRs for addtion of LineChart to the Template Export-
 
-1. https://github.com/eclipse/swtchart/pull/171
+1. [Pull Request 1](https://github.com/eclipse/swtchart/pull/171)
 
-2. https://github.com/eclipse/swtchart/pull/173
+2. [Pull Request 2](https://github.com/eclipse/swtchart/pull/173)
 
 PRs for addition of BarChart to the Template Export-
 
-1. https://github.com/eclipse/swtchart/pull/176
+1. [Pull Request 1](https://github.com/eclipse/swtchart/pull/176)
 
 PRs for addition of ScatterChart to the Template Export-
 
-1. https://github.com/eclipse/swtchart/pull/184
+1. [Pull Request 1](https://github.com/eclipse/swtchart/pull/184)
 
 The above changes added the SVG Template Export option to SWTChart,
 However, there were further changes needed for optimized and efficient working of the export option
 
 Following were the PRs related to issues and bug fixing and further optimization-
 
-1. https://github.com/eclipse/swtchart/pull/193
+1. [Pull Request 1](https://github.com/eclipse/swtchart/pull/193)
 
-2. https://github.com/eclipse/swtchart/pull/195
+2. [Pull Request 2](https://github.com/eclipse/swtchart/pull/195)
 
-3. https://github.com/eclipse/swtchart/pull/197
+3. [Pull Request 3](https://github.com/eclipse/swtchart/pull/197)
 
-4. https://github.com/eclipse/swtchart/pull/199
+4. [Pull Request 4](https://github.com/eclipse/swtchart/pull/199)
 
-5. https://github.com/eclipse/swtchart/pull/222
+5. [Pull Request 5](https://github.com/eclipse/swtchart/pull/222)
 
 Here are some final sample exports showcasing the template export at work-
 <img src="./Untitled1.svg" height="1024" width="1024">
@@ -88,7 +88,7 @@ control the visibility of a series in the export
 
 PR for the change-
 
-1. https://github.com/eclipse/swtchart/pull/210
+1. [Pull Request 1](https://github.com/eclipse/swtchart/pull/210)
 
 ### A screenshot of the feature
 
@@ -102,11 +102,11 @@ There were improvements in R-Script regarding styling
 
 PRs for the above changes-
 
-1. https://github.com/eclipse/swtchart/pull/216
+1. [Pull Request 1](https://github.com/eclipse/swtchart/pull/216)
 
-2. https://github.com/eclipse/swtchart/pull/219
+2. [Pull Request 2](https://github.com/eclipse/swtchart/pull/219)
 
-3. https://github.com/eclipse/swtchart/pull/226
+3. [Pull Request 3](https://github.com/eclipse/swtchart/pull/226)
 
 Here are the screenshots for the improvements 
 
