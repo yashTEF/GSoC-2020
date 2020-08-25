@@ -108,15 +108,16 @@ PRs for the above changes-
 
 Here are the screenshots for the improvements 
 
-<img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
+<img src="./Screenshot from 2020-08-21 15-21-21.png" height="860" width="860">
 
-<img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
+<img src="./Screenshot from 2020-07-21 15-21-21.png" height="860" width="860">
 
-<img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
+<img src="./Screenshot from 2020-07-21 15-21-21.png" height="860" width="860">
 
-### Contact information-<br>
-Yash Bharatiya <br>
+### Contact information-<br> 
 
-yashbharatiya@gmail.com <br>
+Name- Yash Bharatiya <br>
 
-https://github.com/yashTEF
+Mail- yashbharatiya@gmail.com <br>
+
+Github- https://github.com/yashTEF
