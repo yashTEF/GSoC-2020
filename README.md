@@ -67,7 +67,7 @@ Following were the PRs related to issues and bug fixing and further optimization
 
 Here are some final sample exports showcasing the template export at work-
 
-<img src="./Untitled1.svg" height="500 width="500">
+<img src="./Untitled1.svg" height="500" width="500">
 
 <img src="./Untitled2.svg" height="500" width="500">
 
