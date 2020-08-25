@@ -47,8 +47,8 @@ Following were the PRs related to issues and bug fixing and further optimization
 4) https://github.com/eclipse/swtchart/pull/199
 
 Here are some final sample exports showcasing the template export at work-
-<img src="./Untitled1.svg" height="380" width="950">
-<img src="./Untitled2.svg" height="350" width="950">
-<img src="./Untitled4.svg" height="600" width="950">
+<img src="./Untitled1.svg" height="1024" width="1024">
+<img src="./Untitled2.svg" height="1024" width="1024">
+<img src="./Untitled4.svg" height="1024" width="1024">
 
 
