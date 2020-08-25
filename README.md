@@ -110,7 +110,7 @@ Here are the screenshots for the improvements
 
 <img src="./Screenshot from 2020-08-07 16-32-36.png" height="860" width="860">
 
-<img src="./Screenshot from 2020-07-21 15-21-21.png" height="860" width="860">
+<img src="./Screenshot from 2020-08-21 13-27-30.png" height="860" width="860">
 
 <img src="./Screenshot from 2020-07-21 15-21-21.png" height="860" width="860">
 
