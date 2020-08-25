@@ -114,7 +114,7 @@ Here are the screenshots for the improvements
 
 <img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
 
-Contact information-
+### Contact information-<br>
 Yash Bharatiya <br>
 
 yashbharatiya@gmail.com <br>
