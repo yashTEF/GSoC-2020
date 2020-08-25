@@ -12,7 +12,9 @@ Mentor - [Philip Wenig](https://github.com/eselmeister)
 
 1. Added SVG Template Export Option
 
-2. Perfomance Improvement in R-Script Export
+2. Extending the Export Setting Dialog Box for Series Selection
+
+3. Perfomance Improvement in R-Script Export
 
 ## SVG Export via Inkscape Template
 
@@ -64,5 +66,17 @@ Here are some final sample exports showcasing the template export at work-
 <img src="./Untitled1.svg" height="1024" width="1024">
 <img src="./Untitled2.svg" height="1024" width="1024">
 <img src="./Untitled4.svg" height="1024" width="1024">
+
+## Extending the Export Settings Dialog for Series Selection
+
+The Export Settings Dialog was enhanced and improve to support runtime
+selection of series to be exported in various export.
+
+This allows user to easily change the series selection and
+control the visibility of a series in the export
+
+# A screenshot of the feature
+
+<img src="./" height="1024" width="1024">
 
 
