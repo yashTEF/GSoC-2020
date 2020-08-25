@@ -62,10 +62,19 @@ Following were the PRs related to issues and bug fixing and further optimization
 
 4. https://github.com/eclipse/swtchart/pull/199
 
+5. https://github.com/eclipse/swtchart/pull/222
+
 Here are some final sample exports showcasing the template export at work-
 <img src="./Untitled1.svg" height="1024" width="1024">
 <img src="./Untitled2.svg" height="1024" width="1024">
 <img src="./Untitled4.svg" height="1024" width="1024">
+
+Future work and improvements may include the following-
+
+1. Find a way to remove the Hard Coded Coordinates for better code readability
+
+2. Adding Symbols, Symbol Size and LineStyles to the exported series
+
 
 ## Extending the Export Settings Dialog for Series Selection
 
@@ -75,8 +84,39 @@ selection of series to be exported in various export.
 This allows user to easily change the series selection and
 control the visibility of a series in the export
 
+PR for the change-
+
+1. https://github.com/eclipse/swtchart/pull/210
+
 ### A screenshot of the feature
 
-<img src="./Screenshot from 2020-07-24 15-21-21.png" height="1024" width="1024">
+<img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
 
 
+## Performance Improvement in R-Script Export Option
+
+There were improvements in R-Script regarding styling 
+, addition of different symbols and improvement in the scatter plot.
+
+PRs for the above changes-
+
+1. https://github.com/eclipse/swtchart/pull/216
+
+2. https://github.com/eclipse/swtchart/pull/219
+
+3. https://github.com/eclipse/swtchart/pull/226
+
+Here are the screenshots for the improvements 
+
+<img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
+
+<img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
+
+<img src="./Screenshot from 2020-07-24 15-21-21.png" height="860" width="860">
+
+Contact information-
+Yash Bharatiya <br>
+
+yashbharatiya@gmail.com <br>
+
+https://github.com/yashTEF
