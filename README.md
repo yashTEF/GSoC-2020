@@ -21,11 +21,11 @@ contain high details like plots and graphs.
 
 SWTChart now supports an option to be exported to (.svg) format using this lightweight Template Export
 Option which has no dependancy to any external library and is much more efficient when exporting multiple series.
-An Inkscape Template along with the exporting option was added for each of the following types of chart-
 
-1)LineChart
-2)BarChart
-3)ScatterChart
+An Inkscape Template along with the exporting option was added for each of the following types of chart-
+1) LineChart
+2) BarChart
+3) ScatterChart
 
 PRs for addtion of LineChart to the Template Export-
 1) https://github.com/eclipse/swtchart/pull/171
