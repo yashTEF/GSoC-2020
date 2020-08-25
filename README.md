@@ -77,6 +77,6 @@ control the visibility of a series in the export
 
 ### A screenshot of the feature
 
-<img src=".Screenshot from 2020-07-24 15-21-21.png/" height="1024" width="1024">
+<img src="./Screenshot from 2020-07-24 15-21-21.png" height="1024" width="1024">
 
 
