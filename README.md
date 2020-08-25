@@ -61,8 +61,8 @@ Following were the PRs related to issues and bug fixing and further optimization
 4. https://github.com/eclipse/swtchart/pull/199
 
 Here are some final sample exports showcasing the template export at work-
-Scatter Plot- <img src="./Untitled1.svg" height="1024" width="1024">
-Line Plot-  <img src="./Untitled2.svg" height="1024" width="1024">
-Bar Plot- <img src="./Untitled4.svg" height="1024" width="1024">
+<img src="./Untitled1.svg" height="1024" width="1024">
+<img src="./Untitled2.svg" height="1024" width="1024">
+<img src="./Untitled4.svg" height="1024" width="1024">
 
 
